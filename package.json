@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Octobersunshine/record13-552#readme",
   "dependencies": {
+    "adm-zip": "^0.5.17",
     "express": "^5.2.1",
     "multer": "^2.2.0"
   }
